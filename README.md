@@ -63,4 +63,5 @@ Simply drag into your mods folder.
 
 for a list of commands do /bzu help
 
+[Latest Release](https://github.com/WaterSquare29/BazaarUtility/releases/tag/0.2.4)
 ### Beta/Early Release Coming Soon...
